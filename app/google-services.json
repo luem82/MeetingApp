@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "644647251551",
+    "project_id": "chatsapp-9bf4e",
+    "storage_bucket": "chatsapp-9bf4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644647251551:android:51eecc30edbb6bf77af5ea",
+        "android_client_info": {
+          "package_name": "com.example.chatsme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644647251551-gbp4rbsgu45sdsp8nsk7sa9imd2kd70h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJX1bUv72Y1VzstgKkBsWnY69TwMgGEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644647251551-gbp4rbsgu45sdsp8nsk7sa9imd2kd70h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644647251551:android:1a12a2496dcc016e7af5ea",
+        "android_client_info": {
+          "package_name": "com.example.meetingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644647251551-gbp4rbsgu45sdsp8nsk7sa9imd2kd70h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJX1bUv72Y1VzstgKkBsWnY69TwMgGEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644647251551-gbp4rbsgu45sdsp8nsk7sa9imd2kd70h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
